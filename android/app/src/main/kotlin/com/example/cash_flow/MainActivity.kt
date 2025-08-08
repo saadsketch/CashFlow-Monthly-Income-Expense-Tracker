@@ -1,4 +1,4 @@
-package com.example.cash_flow
+package com.cashflow.tracker
 
 import io.flutter.embedding.android.FlutterActivity
 
